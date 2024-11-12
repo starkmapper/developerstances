@@ -11,11 +11,13 @@ First developed by [Mark Stapper] in 2024, this repository tracks and enables fu
 
 ## Future Plans
 
+* Incorporate feedback on v0.1 of the trading cards
+* Add Developer Stances Trading Cards source files
 * Add existing articles on Developer behavior
 * Write articles detailing each of the Developer stances
-* Incorporate feedback on v0.1 of the trading cards
 * [maybe] Write a full facilitation guide for the improv workshop
 * [maybe] Do a kickstarter for printing v0.2 of the trading cards
+* [maybe] Get original artwork to allow commercial use
 
 ## Contributing
 
