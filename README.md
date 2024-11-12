@@ -26,4 +26,4 @@ Please do! Any way of providing feedback will help, no github experience require
 [Developer Stances]: https://github.com/starkmapper/developerstances
 [Mark Stapper]: https://www.linkedin.com/in/markstapper
 [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0
-[SFCon 2024]: https://sfconference.nl/sf-conference-2024/
+[SFConference 2024]: https://sfconference.nl/sf-conference-2024/
