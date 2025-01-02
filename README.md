@@ -23,7 +23,7 @@ First developed by [Mark Stapper] in 2024, this repository tracks and enables fu
 
 Please do! Any way of providing feedback will help, no github experience required!
 
-[Developer Stances] © 2024 by [Mark Stapper] is licensed under [CC BY-NC-SA 4.0]![](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg).
+[Developer Stances] © 2024 by [Mark Stapper] is licensed under [CC BY-NC-SA 4.0]![](by-nc-sa.svg).
 
 [Developer Stances]: https://github.com/starkmapper/developerstances
 [Mark Stapper]: https://www.linkedin.com/in/markstapper
